@@ -1,4 +1,4 @@
-package devOps.practice.CI.CD.Practice.controller;
+package devops.example.ci.cd.test.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
