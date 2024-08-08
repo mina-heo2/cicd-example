@@ -1,4 +1,4 @@
-package devOps.practice.CI.CD.Practice;
+package devops.example.ci.cd.test;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
